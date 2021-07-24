@@ -1,0 +1,13 @@
+.form-wrapper {
+  border: 1px solid #ccc;
+}
+
+.form-wrapper>.form-header {
+  background: #f1f1f1;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.form-wrapper>.form-body {
+  padding: 10px;
+}
